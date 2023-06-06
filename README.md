@@ -1,2 +1,2 @@
 # Debug-Ethiopia
-This Website is under-developmennt
+This Website is under-development
